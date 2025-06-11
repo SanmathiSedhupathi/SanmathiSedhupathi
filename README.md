@@ -66,7 +66,7 @@ I’m particularly interested in blending AI, emotion detection, and seamless UI
 ### 📫 Connect with Me
 
 - GitHub: [SanmathiSedhupathi](https://github.com/SanmathiSedhupathi)
-- LinkedIn: *(www.linkedin.com/in/sanmathi-sedhupathi08)*
+- LinkedIn: [SanmathiSedhupathi](www.linkedin.com/in/sanmathi-sedhupathi08)
 
 
 ---
