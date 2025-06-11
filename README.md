@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web & Mobile App Developer | React Native & Flutter | AI & UI/UX Enthusiast</h3>
 
 <p align="center">
-  🎓 VI Year M.Sc. Integrated Student at <b>Kongu Engineering College</b><br>
+  🎓 IV Year M.Sc. Integrated Student at <b>Kongu Engineering College</b><br>
   📍 Based in Coimbatore, Tamil Nadu, India
 </p>
 
