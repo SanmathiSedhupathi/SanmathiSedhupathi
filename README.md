@@ -35,10 +35,10 @@ I’m particularly interested in blending AI, emotion detection, and seamless UI
 
 **Backend & Databases:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySql]
-![PostgreSQL]
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI & APIs:**  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-ffcc00?style=flat-square&logo=huggingface&logoColor=black)
